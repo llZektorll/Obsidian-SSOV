@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Internal/0-3-PluginExamples/0-3-2-DataView.md",
+                "file": "0-Internal/0-2-VaultInformation/0-2-1-FirstStep.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0-Internal/0-3-PluginExamples/0-3-2-DataView.md",
+                "file": "0-Internal/0-2-VaultInformation/0-2-1-FirstStep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Internal/0-3-PluginExamples/0-3-2-DataView.md"
+                "file": "0-Internal/0-2-VaultInformation/0-2-1-FirstStep.md"
               }
             }
           }
@@ -160,6 +160,7 @@
   },
   "active": "d84e5e36af01d289",
   "lastOpenFiles": [
+    "0-Internal/0-3-PluginExamples/0-3-2-DataView.md",
     "0-Internal/0-3-PluginExamples/0-3-1-Admonition.md",
     "0-Internal/0-2-VaultInformation/0-2-1-FirstStep.md",
     "Home.md",
@@ -168,7 +169,6 @@
     "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-1-PowerShellIndex.md",
     "0-Internal/0-4-ClassExample/0-4-CalssIndex.md",
     "0-Internal/0-5-ContactExample/0-5-1-Zektor.md",
-    "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-2-IntroPowerShell.md",
-    "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-3-DiscoverCommands.md"
+    "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-2-IntroPowerShell.md"
   ]
 }
