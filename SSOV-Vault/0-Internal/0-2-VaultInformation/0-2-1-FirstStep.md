@@ -8,14 +8,7 @@ tags:
 
 # The Project 
 SSOV (Student Start Obsidian Vault) is a project created for Obsidian October 2022. This year theme is **Back to School**. You can check all the information on this year event on [Obsidian Hub](https://publish.obsidian.md/hub/01+-+Community/Events/Obsidian+October+2022).
-SSOV is a template vault with some examples on random topics created just to give an idea on how to use Obsidian. The project is divided into 3 sections that represented as folders.
-1. 0_Temaples
-	1. This will be the home to all the notes templates used for the project (Adapt all templates for your use case)
-2. 1_System
-	1. Here you will have the extended version of the Vault rules. Keep in mind that these rules are just a suggestion and they have been design based on my experience.
-	2. There will also be a folder named Plugins that will have some basic examples on how to use the plugins that are available on this vault. 
-3. 2_Exemples
-	1. The Examples folder will have a set of notes as examples on how the vault can be used according to the rules. 
+SSOV is a template vault with a random note topic created just to give a general idea on how to use Obsidian.. The project is all inside a single folder to not take to much space on your file structure. 
 
 
 > [!ERROR] DISCLAIMER 
