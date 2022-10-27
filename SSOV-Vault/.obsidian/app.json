@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "spellcheck": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
+}

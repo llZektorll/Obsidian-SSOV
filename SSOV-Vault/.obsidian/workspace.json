@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "9e50a23dcc63b1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "70b347dcbb50fc58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d84e5e36af01d289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "648bbfad037edff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b676049ac9ecff7",
+        "type": "tabs",
+        "dimension": 69.37984496124031,
+        "children": [
+          {
+            "id": "b7c2ecba3831407c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b3efcbf2df33e4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Log",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8183c0476ed2b90c",
+        "type": "tabs",
+        "dimension": 30.620155038759684,
+        "children": [
+          {
+            "id": "5dc3edfa13494da7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121207,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "right": {
+    "id": "01723b591f3e7b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcdeda699e78c44",
+        "type": "tabs",
+        "dimension": 68.21705426356588,
+        "children": [
+          {
+            "id": "36620403fcb04272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33b3db02306028c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3a9cf194811e42e",
+        "type": "tabs",
+        "dimension": 31.782945736434108,
+        "children": [
+          {
+            "id": "d72869542e30ba38",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "active": "b7c2ecba3831407c",
+  "lastOpenFiles": [
+    "Home.md",
+    "0-Internal/0-3-PluginExamples/0-3-1-Admonition.md",
+    "0-Internal/0-1-Templates/0-1-5-ProjectMeeting.md",
+    "0-Internal/0-1-Templates/0-1-1-ClassIndex.md",
+    "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-1-PowerShellIndex.md",
+    "0-Internal/0-4-ClassExample/0-4-CalssIndex.md",
+    "0-Internal/0-5-ContactExample/0-5-1-Zektor.md",
+    "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-2-IntroPowerShell.md",
+    "0-Internal/0-4-ClassExample/0-4-1-PowerShell/0-4-1-3-DiscoverCommands.md",
+    "0-Internal/0-6-DictionaryExample/0-6-1-CMDLET.md"
+  ]
+}

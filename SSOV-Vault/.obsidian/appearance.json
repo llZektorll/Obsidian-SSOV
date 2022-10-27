@@ -1,0 +1,15 @@
+{
+  "cssTheme": "Primary",
+  "enabledCssSnippets": [
+    "evelf_arc-en-ciel_right-workspace-icons",
+    "evelf_arc-en-ciel_outline",
+    "evelf_arc-en-ciel_left-ribbon-icons",
+    "evelf_arc-en-ciel_folder-nav",
+    "Style_1"
+  ],
+  "accentColor": "",
+  "nativeMenus": false,
+  "translucency": false,
+  "showViewHeader": true,
+  "baseFontSize": 15
+}

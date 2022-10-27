@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9e50a23dcc63b1e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9641a1845c0b706c",
+        "type": "leaf",
+        "dimension": 20.298977183320222,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Migration Process.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "73ddb70b77101bff",
+        "type": "leaf",
+        "dimension": 79.70102281667978,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SlipBox.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "648bbfad037edff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b676049ac9ecff7",
+        "type": "tabs",
+        "dimension": 65.11397423191279,
+        "children": [
+          {
+            "id": "b7c2ecba3831407c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b3efcbf2df33e4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Menu/Home/Company",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8183c0476ed2b90c",
+        "type": "tabs",
+        "dimension": 34.886025768087215,
+        "children": [
+          {
+            "id": "5dc3edfa13494da7",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "SlipBox.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01723b591f3e7b7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bcdeda699e78c44",
+        "type": "tabs",
+        "dimension": 64.51932606541129,
+        "children": [
+          {
+            "id": "36620403fcb04272",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "33b3db02306028c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SlipBox.md"
+              }
+            }
+          },
+          {
+            "id": "645a678a0fb6e3dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5879cca3d00d2a63",
+        "type": "tabs",
+        "dimension": 35.4806739345887,
+        "children": [
+          {
+            "id": "2e5967dae5ac66d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "active": "73ddb70b77101bff",
+  "lastOpenFiles": [
+    "The_Vault_Home.md",
+    "Migration Process.md",
+    "SlipBox.md",
+    "0E_Projects/0E_3_RaspberryPI/0E_3_1_HomeServer/0E_3_1_2_HomeServer.md",
+    "0F_IT/0F_2_Linux/0F_2_0_IndexLinux.md",
+    "0F_IT/0F_2_Linux/0F_2_7_InstallApache.md",
+    "0F_IT/0F_2_Linux/0F_2_5_ApacheDeafultFolder.md",
+    "0F_IT/0F_2_Linux/0F_2_6_ApachePassword.md",
+    "0F_IT/0F_2_Linux/0F_2_4_MountUSB.md",
+    "0F_IT/0F_2_Linux/0F_2_3_EnableApacheFileUpload.md"
+  ]
+}

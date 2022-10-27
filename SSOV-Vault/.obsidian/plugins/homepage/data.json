@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "defaultNote": "Home",
+  "useMoment": false,
+  "momentFormat": "YYYY-MM-DD",
+  "workspace": "Home",
+  "workspaceEnabled": false,
+  "hasRibbonIcon": true,
+  "openMode": "Keep open notes",
+  "view": "Default view",
+  "refreshDataview": true
+}

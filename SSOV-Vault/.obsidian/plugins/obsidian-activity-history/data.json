@@ -1,0 +1,82 @@
+{
+  "firstRun": false,
+  "initialized": [
+    {
+      "path": "/",
+      "initialized": true
+    }
+  ],
+  "trackedProjects": [
+    "/"
+  ],
+  "checkpointList": [
+    {
+      "path": "/",
+      "date": "2022-10-23",
+      "size": 22819
+    }
+  ],
+  "activityHistory": [
+    {
+      "path": "/",
+      "size": [
+        {
+          "date": "2022-10-12",
+          "value": 96120
+        },
+        {
+          "date": "2022-10-13",
+          "value": 19559
+        },
+        {
+          "date": "2022-10-14",
+          "value": 7935473
+        },
+        {
+          "date": "2022-10-15",
+          "value": 0
+        },
+        {
+          "date": "2022-10-16",
+          "value": 32491
+        },
+        {
+          "date": "2022-10-17",
+          "value": 1247
+        },
+        {
+          "date": "2022-10-18",
+          "value": 8512
+        },
+        {
+          "date": "2022-10-19",
+          "value": 10955
+        },
+        {
+          "date": "2022-10-20",
+          "value": 780
+        },
+        {
+          "date": "2022-10-21",
+          "value": 764
+        },
+        {
+          "date": "2022-10-22",
+          "value": 213635
+        },
+        {
+          "date": "2022-10-23",
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "activityColor1": "#c6e48b",
+  "activityColor2": "#7bc96f",
+  "activityColor3": "#239a3b",
+  "activityColor4": "#196127",
+  "textColor": "#000000",
+  "emptyColor": "#ecedf0",
+  "cellRadius": 1,
+  "type": "yearly"
+}
